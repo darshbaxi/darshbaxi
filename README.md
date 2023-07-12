@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/darsh baxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darsh baxi" height="30" width="40" /></a>
+<a href="https://kaggle.com/Darsh Baxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darsh baxi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/darshbaxi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darshbaxi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/darsh_baxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darsh_baxi" height="30" width="40" /></a>
 </p>
