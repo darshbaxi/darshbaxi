@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darsh Baxi</h1>
-<h3 align="center">AI-ML Enthusiastic and Freshman at Indian Institute of Information Technology Lucknow</h3>
+<h3 align="center">AI-ML Enthusiastic and Student at Indian Institute of Information Technology Lucknow</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
